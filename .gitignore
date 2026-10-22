@@ -5,3 +5,4 @@ docker-compose-links/
 /.project
 /.settings/
 DoWebMx/target/dowebmx-erp.tar.gz
+.DS_Store
